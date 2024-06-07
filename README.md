@@ -45,7 +45,7 @@ This is a mobile weather application built using React Native and Expo, which fe
 
 ## API Key
 
-The app uses the OpenWeatherMap API. You need to have an API key to use the app. Replace the placeholder API key in the code with your own API key.
+The app uses the OpenWeatherMap API. You will need to have an API key to use the app. Replace the placeholder API key in the code with your own API key.
 
 ```javascript
 const O_W_KEY = "your_openweathermap_api_key";
